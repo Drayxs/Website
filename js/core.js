@@ -19,7 +19,9 @@ $(document).ready(function()
 	if (lLoc == "") //If empty it's the index
 		lLoc = "index.php";
 	
-	$('a[href = "' + lLoc + '"]').each(function(i, pObj) //Underline the current element in the nav
+	console.log(lLoc);
+	
+	$('a[href = "http://www.garykcng.com/' + lLoc + '"]').each(function(i, pObj) //Underline the current element in the nav
 	{
 		$(this).css('text-decoration', 'underline');
 	});
