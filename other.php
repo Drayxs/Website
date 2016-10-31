@@ -7,24 +7,31 @@
 			<td class = "projectDescriptionSide">
 				<p style = "text-align: left;">
 					<b>Role:</b> Industrial Designer and Programmer<br>
-					<b>Duration:</b> April 2016 - Present<br>
+					<b>Duration:</b> April 2016 - October 2016<br>
 					<b>Technology:</b> Arduino<br>
 					<br>
 					
-					<a href = "http://www.dubaidesignweek.ae/global-grad-show/projects/tiptapmat/" target = "_blank">Tip Tap Mat</a> is a smart door mat which allows you to open locked doors with your feet. By using your feet to tap the correct combination on the mat, a wireless signal is sent to the unlocker which unlocks a digital lock. Tip Tap Mat is currently being demo'd at the <a href = "http://www.globalgradshow.com/" target = "_blank">Global Grad Show</a> at <a href = "http://www.dubaidesignweek.ae/" target = "_blank">Dubai Design Week 2016</a>.<br>
+					<a href = "projects/tiptapmat/" target = "_blank">Tip Tap Mat</a> is a smart door mat which allows you to open locked doors with your feet. By using your feet to tap the correct combination on the mat, a wireless signal is sent to the unlocker which unlocks a digital lock. Tip Tap Mat was invited to demo at the <a href = "http://www.globalgradshow.com/" target = "_blank">Global Grad Show</a> of <a href = "http://www.dubaidesignweek.ae/" target = "_blank">Dubai Design Week 2016</a>.<br>
 				</p>
 					
 				<ul>
 					<li>Designed, assembled, and programmed the core Arduino components</li>
-					<li>Laser cut and built the unlocker module using acrylic and other materials</li>
+					<li>3D printed and laser cut materials to build the console and unlocking components</li>
+					<li>Publicly demo'd the project at Dubai Design Week 2016</li>
 				</ul>
+				
+				<p style = "text-align: left;">
+					<a href = "projects/tiptapmat/" target = "_blank">View Project Page</a><br>
+				</p>
 			</td>
 			<td class = "projectVideoSide">
 				<div class = "youtube-container">
-					<div class = "youtube-player" data-id = "sS6sqPPw__o"></div>
-					<a href = "img/other/tiptapmat_mat_full.jpg" target = "_blank"><img style = "width: 49.5%;" src = "img/other/tiptapmat_mat.jpg" /></a>
-					<a href = "img/other/tiptapmat_door_full.jpg" target = "_blank"><img style = "width: 49.5%;" src = "img/other/tiptapmat_door.jpg" /></a>
+					<div class = "youtube-player" data-id = "sS6sqPPw__o"></div>					
 				</div>
+				<!--<div class = "projectPictures">
+					<a href = "projects/tiptapmat/img/tiptapmat_mat_full.jpg" target = "_blank"><img style = "width: 50%;" src = "projects/tiptapmat/img/tiptapmat_mat.jpg" /></a>
+					<a href = "projects/tiptapmat/img/tiptapmat_door_full.jpg" target = "_blank"><img style = "width: 50%;" src = "projects/tiptapmat/img/tiptapmat_door.jpg" /></a>
+				</div>-->
 			</td>
 		</tr>
 	</table>

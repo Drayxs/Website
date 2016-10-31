@@ -25,9 +25,9 @@
 <meta name = "author" content = "Gary Ng">
 <meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
 
-<script src = "/lib/jquery-2.2.0.min.js"></script> 
+<?php include "includes.php"; ?>	
 
-<!-- Latest compiled and minified CSS -->
+<!--<script src = "/lib/jquery-2.2.0.min.js"></script> 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
 <script src = "/js/core.js"></script>
@@ -37,7 +37,7 @@
 <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">	
 
 <link rel = "stylesheet" href = "/css/core.css"> 
-<link rel = "stylesheet" href = "/css/youtube.css"> 
+<link rel = "stylesheet" href = "/css/youtube.css"> -->
 
 <?php 
 	$lPageName = basename($_SERVER['PHP_SELF'], '.php'); 

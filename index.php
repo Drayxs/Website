@@ -12,7 +12,7 @@
 			</p>
 		</td>
 		<td class = "projectVideoSide">			
-			<img src = "img/me/typical.jpg" style = "width: 100%;" alt = "Gary Ng"  title = "I also take pictures where I look off to the side." />
+			<img src = "img/me/desert.jpg" style = "width: 100%;" alt = "Gary Ng"  title = "I stay cool, even in the desert." />
 		</td>
 	</tr>		
 </table>
@@ -21,14 +21,15 @@
 
 <table>
 	<tr>
-		<td style = "width: 50%;">
-			<h2>Featured Project</h2> <a href = "other.php"><h2>Tip Tap Mat</h2></a>
+		<td style = "width: 49.5%; display: inline;">
+			<h2>Featured</h2> <a href = "projects/tiptapmat"><h2>Tip Tap Mat</h2></a>
 		
 			<div class = "youtube-container">
 				<div class = "youtube-player" data-id = "sS6sqPPw__o"></div>
 			</div>
 		</td>
-		<td style = "width: 50%;">
+		<td style = "width: 1%;"></td>
+		<td style = "width: 49.5%;">
 			<h2>Demo Reel</h2><h2>2014<h2>
 
 			<div class = "youtube-container">

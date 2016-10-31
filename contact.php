@@ -10,14 +10,15 @@
 				
 				<b>Email:</b> <a href = "mailto:ng.gary.kc@gmail.com" target = "_top">ng.gary.kc@gmail.com</a><br>
 				<b>Phone:</b> +82 10 2750 1337<br>
-				<b>Skype:</b> gary.kc.ng<br>		
+				<b>Skype:</b> gary.kc.ng<br>	
+				<b>Twitter:</b> <a href = "https://twitter.com/Drayxs" target = "_blank">@Drayxs</a><br>				
 				<b>Location:</b> Daejeon, South Korea<br>
 				
-				<br>
+				<br>				
 				
-				<b>Twitter:</b> <a href = "https://twitter.com/Drayxs" target = "_blank">@Drayxs</a><br>
 				<b>LinkedIn:</b> <a href = "https://kr.linkedin.com/in/garykcng" target = "_blank">garykcng</a><br>
 				<b>Google Scholar:</b> <a href = "https://scholar.google.co.kr/citations?user=MLtRcmUAAAAJ" target = "_blank">Gary Ng</a><br>
+				<b>GitHub:</b> <a href = "https://github.com/Drayxs" target = "_blank">Drayxs</a><br>
 					
 				<br>
 					
