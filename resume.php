@@ -31,33 +31,33 @@
 	<a href = "http://www.digitalleisure.com/" target = "_blank">Digital Leisure</a> (Aurora, Ontario)<br><br>
 	
 	<b>Undergraduate Research Assistant</b> (2012 - 2014)<br>
-	University of Ontario Institute of Technology (Oshawa, Ontario)<br><br>
+	<a href = "http://www.uoit.ca/" target = "_blank">University of Ontario Institute of Technology</a> (Oshawa, Ontario)<br><br>
 	
 	<b>Teaching Assistant</b> (2013 - 2014)<br>
-	University of Ontario Institute of Technology (Oshawa, Ontario)<br><br>
+	<a href = "http://www.uoit.ca/" target = "_blank">University of Ontario Institute of Technology</a> (Oshawa, Ontario)<br><br>
 	
 	<b>International Research Assistant</b> (Summer 2013)<br>
-	<a href = "http://www.fu-berlin.de/en/" target = "_blank">Freie Universitat Berlin</a> (Berlin, Germany)<br><br>
+	<a href = "http://www.fu-berlin.de/en/" target = "_blank">Free University of Berlin</a> (Berlin, Germany)<br><br>
 	
 	<b>Software Developer Intern</b> (Summer 2012)<br>
 	<a href = "https://www.facebook.com/BeaconWallLtd/?fref=ts" target = "_blank">BeaconWall</a> (Hong Kong)<br><br>
 	
 	<b>Peer Tutor</b> (2011 - 2014)<br>
-	University of Ontario Institute of Technology (Oshawa, Ontario)
+	<a href = "http://www.uoit.ca/" target = "_blank">University of Ontario Institute of Technology</a> (Oshawa, Ontario)
 </p>
 
 <hr>
 
 <h2>Volunteering</h2><br>
 <p>
-	<b>College Student Reporter</b> (2014 - 2016)<br>
+	<b>College Student Reporter</b> (2015 - 2016)<br>
 	<a href = "http://www.pyeongchang2018.com/horizon/eng/index.asp" target = "_blank">PyeongChang 2018 Winter Olympics Committee</a> (Seoul, South Korea)<br><br>
 	
 	<b>President</b> (2013 - 2014)<br>
 	<a href = "https://www.facebook.com/GDS.UOIT/?fref=ts" target = "_blank">UOIT/DC Game Development Society</a> (Oshawa, Ontario)<br><br>
 	
 	<b>Executive</b> (2012 - 2013)<br>
-	UOIT/DC Game Development Society (Oshawa, Ontario)
+	<a href = "https://www.facebook.com/GDS.UOIT/?fref=ts" target = "_blank">UOIT/DC Game Development Society</a> (Oshawa, Ontario)
 </p>
 
 <hr>

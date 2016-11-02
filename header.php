@@ -7,7 +7,7 @@
   "@context": "http://www.schema.org",
   "@type": "person",
   "name": "Gary Ng",
-  "jobTitle": "Game Developer and Industrial Designer",
+  "jobTitle": "Game Developer and Interaction Designer",
   "url": "http://www.garykcng.com/",
   "address": {
     "@type": "PostalAddress",
@@ -21,7 +21,7 @@
  </script>
 
 <meta charset = "UTF-8">
-<meta name = "description" content = "Online portfolio for Gary Ng, a game developer and industrial designer.">
+<meta name = "description" content = "Online portfolio for Gary Ng, a game developer and interaction designer.">
 <meta name = "author" content = "Gary Ng">
 <meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
 
@@ -53,7 +53,7 @@
 	else if ($lPageName == "contact")
 		echo "Contact Information";
 	else
-		echo "Game Developer and Industrial Designer";
+		echo "Game Developer and Interaction Designer";
 	
 	echo "</title>";
 ?>
