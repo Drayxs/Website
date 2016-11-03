@@ -62,6 +62,12 @@
 		<li><a href = "http://www.globalgradshow.com/projects/tip-tap-mat/" target = "_blank">Global Grad Show</a></li>
 	</ul>
 		
+	<p style = "text-align: left;"><b>In the Media</b></p>
+	
+	<ul>
+		<li><a href = "http://observer.com/2016/11/12-game-changing-innovations-we-found-at-dubai-design-week/" target = "_blank">The New York Observer</a></li>
+	</ul>	
+	
 	<p style = "text-align: left;"><b>Demos</b></p>
 	
 	<ul>

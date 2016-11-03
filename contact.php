@@ -10,9 +10,13 @@
 				
 				<b>Email:</b> <a href = "mailto:ng.gary.kc@gmail.com" target = "_top">ng.gary.kc@gmail.com</a><br>
 				<b>Phone:</b> +82 10 2750 1337<br>
-				<b>Skype:</b> gary.kc.ng<br>	
-				<b>Twitter:</b> <a href = "https://twitter.com/Drayxs" target = "_blank">@Drayxs</a><br>				
+				<b>Skype:</b> gary.kc.ng<br>									
 				<b>Location:</b> Daejeon, South Korea<br>
+				
+				<br>
+				
+				<b>Twitter:</b> <a href = "https://twitter.com/Drayxs" target = "_blank">@Drayxs</a><br>
+				<b>Blog:</b> <a href = "http://blog.garykcng.com/" target = "_blank">Gary's Rambles</a><br>
 				
 				<br>				
 				
