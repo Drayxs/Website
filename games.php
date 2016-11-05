@@ -11,7 +11,7 @@
 					<b>Technology:</b> Unity (C#), Maya (Python), Web (HTML, CSS, JavaScript, PHP), Databases (SQL)<br>
 					<br>
 					
-					<a href = "http://casino.digitalleisure.com/" target = "_blank">The Four Kings Casino and Slots</a> is an online social multiplayer game released on Steam and for the PS4. Create and customize your own avatar and play some of your favourite casino games such as poker, slots and blackjack.<br>
+					The Four Kings Casino and Slots is an online social multiplayer game released on Steam and for the PS4. Create and customize your own avatar and play some of your favourite casino games such as poker, slots and blackjack.<br>
 				</p>
 					
 				<ul>
@@ -21,6 +21,7 @@
 				</ul>
 				
 				<p style = "text-align: left;">
+					<a href = "http://casino.digitalleisure.com/" target = "_blank">Official Site</a><br>
 					<a href = "http://store.steampowered.com/app/260430" target = "_blank">View on Steam</a><br>
 					<a href = "https://store.playstation.com/#!/en-us/games/the-four-kings-casino-and-slots/cid=UP2043-CUSA01026_00-FOURKINGS0000000" target = "_blank">View on the PlayStation Store</a><br>
 				</p>
@@ -83,6 +84,7 @@
 				<ul>
 					<li>Created a flexible level loader that supports a variety of tiles and basic logic</li>
 					<li>Designed and implemented all the various tile types and mechanics</li>
+					<li>Conducted user playtest sessions to obtain feedback on game mechanics and play experience</li>
 				</ul>
 			</td>
 			<td class = "projectVideoSide">
@@ -105,13 +107,18 @@
 					<b>Technology:</b> Unity (C#)<br>
 					<br>
 					
-					<a href = "http://globalgamejam.org/2014/games/relativity-0" target = "_blank">Relativity</a> is a puzzle platforming game created for <a href = "http://globalgamejam.org/" target = "_blank">Global Game Jam 2014</a>. Play as a character with the ability to shift in and out of the shadow world and try to collect the gems and navigate through the levels.<br>
+					Relativity is a puzzle platforming game created for <a href = "http://globalgamejam.org/" target = "_blank">Global Game Jam 2014</a>. Play as a character with the ability to shift in and out of the shadow world and try to collect the gems and navigate through the levels.<br>
 				</p>
 				
 				<ul>
 					<li>Programmed the trigger system for all interactable environment objects</li>
 					<li>Collaborated with the designers and artists on the design of the gameplay elements</li>
 				</ul>
+				
+				<p style = "text-align: left;">
+					<a href = "downloads/Relativity.zip" target = "_blank">Download</a><br>
+					<a href = "http://globalgamejam.org/2014/games/relativity-0" target = "_blank">View Game Jam Entry</a><br>					
+				</p>
 			</td>
 			<td class = "projectVideoSide">
 				<img src = "img/games/relativity.jpg" style = "width: 100%;" alt = "Relativity"  title = "Relativity"/>

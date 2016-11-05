@@ -11,7 +11,7 @@
 					<b>Technology:</b> Arduino<br>
 					<br>
 					
-					<a href = "projects/tiptapmat/" target = "_blank">Tip Tap Mat</a> is a smart door mat which allows you to open locked doors with your feet. By using your feet to tap the correct combination on the mat, a wireless signal is sent to the unlocker which unlocks a digital lock. Tip Tap Mat was invited to demo at the <a href = "http://www.globalgradshow.com/" target = "_blank">Global Grad Show</a> of <a href = "http://www.dubaidesignweek.ae/" target = "_blank">Dubai Design Week 2016</a>.<br>
+					Tip Tap Mat is a smart door mat which allows you to open locked doors with your feet. By using your feet to tap the correct combination on the mat, a wireless signal is sent to the unlocker which unlocks a digital lock. Tip Tap Mat was invited to demo at the <a href = "http://www.globalgradshow.com/" target = "_blank">Global Grad Show</a> of <a href = "http://www.dubaidesignweek.ae/" target = "_blank">Dubai Design Week 2016</a>.<br>
 				</p>
 					
 				<ul>
@@ -84,13 +84,18 @@
 					<b>Technology:</b> Windows MFC (C++), Web (HTML, CSS, JavaScript, PHP), Databases (SQL)<br>
 					<br>
 					
-					<a href = "http://www.maxitsystems.com/" target = "_blank">MaXit Education</a> is an educational tool that gives opportunites to instructors to evaluate and assess students using videos and comments.<br>
+					MaXit Education is an educational tool that gives opportunites to instructors to evaluate and assess students using videos and comments.<br>
 				</p>
 					
 				<ul>
 					<li>Successfully took over an existing code base and expanded it to add network, web, and mobile features</li>
 					<li>Demonstrated the product to the client, Hong Kong Baptist University, to obtain feedback on usability and functionality</li>
 				</ul>
+				
+				<p style = "text-align: left;">
+					<a href = "http://www.maxitsystems.com/" target = "_blank">Official Site</a><br>
+				</p>
+				
 			</td>
 			<td class = "projectVideoSide">
 				<div class = "youtube-container">
