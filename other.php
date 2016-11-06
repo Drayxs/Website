@@ -20,18 +20,14 @@
 					<li>Publicly demo'd the project at Dubai Design Week 2016</li>
 				</ul>
 				
-				<p style = "text-align: left;">
-					<a href = "projects/tiptapmat/" target = "_blank">View Project Page</a><br>
-				</p>
+				<div class = "icons">
+					<a href = "projects/tiptapmat/" target = "_blank"><img class = "icon" src = "img/icons/webpage.png" alt = "Website" title = "Project Page"/></a>
+				</div>
 			</td>
 			<td class = "projectVideoSide">
 				<div class = "youtube-container">
 					<div class = "youtube-player" data-id = "sS6sqPPw__o"></div>					
 				</div>
-				<!--<div class = "projectPictures">
-					<a href = "projects/tiptapmat/img/tiptapmat_mat_full.jpg" target = "_blank"><img style = "width: 50%;" src = "projects/tiptapmat/img/tiptapmat_mat.jpg" /></a>
-					<a href = "projects/tiptapmat/img/tiptapmat_door_full.jpg" target = "_blank"><img style = "width: 50%;" src = "projects/tiptapmat/img/tiptapmat_door.jpg" /></a>
-				</div>-->
 			</td>
 		</tr>
 	</table>
@@ -58,9 +54,9 @@
 					<li>Combined familiar 2D surface gestures for map navigation with in-air gestures for 3D tasks in virtual reality</li>
 				</ul>
 				
-				<p style = "text-align: left;">
-					<a href = "docs/A%20Gesture%20Based%20Interface%20for%20Remote%20Inspection%20Tasks%20with%20Unmanned%20Aerial%20Vehicles.pdf" target = "_blank">View Paper</a><br>
-				</p>
+				<div class = "icons">
+					<a href = "docs/A%20Gesture%20Based%20Interface%20for%20Remote%20Inspection%20Tasks%20with%20Unmanned%20Aerial%20Vehicles.pdf" target = "_blank"><img class = "icon" src = "img/icons/pdf.png" alt = "Paper" title = "View Paper"/></a>
+				</div>
 			</td>
 			<td class = "projectVideoSide">
 				<div class = "youtube-container">
@@ -91,10 +87,6 @@
 					<li>Successfully took over an existing code base and expanded it to add network, web, and mobile features</li>
 					<li>Demonstrated the product to the client, Hong Kong Baptist University, to obtain feedback on usability and functionality</li>
 				</ul>
-				
-				<p style = "text-align: left;">
-					<a href = "http://www.maxitsystems.com/" target = "_blank">Official Site</a><br>
-				</p>
 				
 			</td>
 			<td class = "projectVideoSide">

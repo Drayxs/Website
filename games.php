@@ -20,11 +20,11 @@
 					<li>Created web tools and reports to improve project management and track the development of assets</li>
 				</ul>
 				
-				<p style = "text-align: left;">
-					<a href = "http://casino.digitalleisure.com/" target = "_blank">Official Site</a><br>
-					<a href = "http://store.steampowered.com/app/260430" target = "_blank">View on Steam</a><br>
-					<a href = "https://store.playstation.com/#!/en-us/games/the-four-kings-casino-and-slots/cid=UP2043-CUSA01026_00-FOURKINGS0000000" target = "_blank">View on the PlayStation Store</a><br>
-				</p>
+				<div class = "icons">
+					<a href = "http://casino.digitalleisure.com/" target = "_blank"><img class = "icon" src = "img/icons/webpage.png" alt = "Website" title = "Official Site"/></a>
+					<a href = "http://store.steampowered.com/app/260430" target = "_blank"><img class = "icon" src = "img/icons/steam.png" alt = "Steam" title = "View on Steam"/></a>
+					<a href = "https://store.playstation.com/#!/en-us/games/the-four-kings-casino-and-slots/cid=UP2043-CUSA01026_00-FOURKINGS0000000" target = "_blank"><img class = "icon" src = "img/icons/playstation.png" alt = "PlayStation Network" title = "View on the PlayStation Network"/></a>
+				</div>
 			</td>
 			<td class = "projectVideoSide">
 				<div class = "youtube-container">
@@ -48,13 +48,17 @@
 					<b>Technology:</b> Android (Processing)<br>
 					<br>
 					
-					ColourBomb is a psueudo-augmented reality game where you search the real world to match up the bombs with physical objects of that colour.<br>
+					ColourBomb is a pseudo-augmented reality game where you search the real world to match up the bombs with physical objects of that colour.<br>
 				</p>
 					
 				<ul>
 					<li>Utilized Processing for Android to rapidly develop a working prototype</li>
 					<li>Processed the camera feed and compared colours in Lab colour space for higher accuracy</li>
 				</ul>
+				
+				<div class = "icons">
+					<a href = "https://play.google.com/store/apps/details?id=processing.test.colourbomb" target = "_blank"><img class = "icon" src = "img/icons/android.png" alt = "Google Play" title = "View on Google Play"/></a>
+				</div>				
 			</td>
 			<td class = "projectVideoSide">
 				<div class = "youtube-container">
@@ -86,7 +90,7 @@
 					<li>Designed and implemented all the various tile types and mechanics</li>
 					<li>Conducted user playtest sessions to obtain feedback on game mechanics and play experience</li>
 				</ul>
-			</td>
+			</td>			
 			<td class = "projectVideoSide">
 				<img src = "img/games/shoottoten.png" style = "width: 100%;"  alt = "Shoot to Ten"  title = "Shoot to Ten" />
 			</td>
@@ -115,10 +119,10 @@
 					<li>Collaborated with the designers and artists on the design of the gameplay elements</li>
 				</ul>
 				
-				<p style = "text-align: left;">
-					<a href = "downloads/Relativity.zip" target = "_blank">Download</a><br>
-					<a href = "http://globalgamejam.org/2014/games/relativity-0" target = "_blank">View Game Jam Entry</a><br>					
-				</p>
+				<div class = "icons">
+					<a href = "http://globalgamejam.org/2014/games/relativity-0" target = "_blank"><img class = "icon" src = "img/icons/webpage.png" alt = "Global Game Jam Entry" title = "View Global Game Jam Entry"/></a>
+					<a href = "downloads/Relativity.zip" target = "_blank"><img class = "icon" src = "img/icons/download.png" alt = "Download" title = "Download"/></a>					
+				</div>		
 			</td>
 			<td class = "projectVideoSide">
 				<img src = "img/games/relativity.jpg" style = "width: 100%;" alt = "Relativity"  title = "Relativity"/>

@@ -1,8 +1,18 @@
 <?php include "header.php"; ?>
 
-<p>
-	<b>Download PDF (<a href = "docs/Gary%20Ng%20-%20Resume%20-%20Letter.pdf" target = "_blank">Letter</a>, <a href = "docs/Gary%20Ng%20-%20Resume%20-%20A4.pdf" target = "_blank">A4</a>)</b>
-</p>
+<!--<b>Download PDF (<a href = "docs/Gary%20Ng%20-%20Resume%20-%20Letter.pdf" target = "_blank">Letter</a>, <a href = "docs/Gary%20Ng%20-%20Resume%20-%20A4.pdf" target = "_blank">A4</a>)</b>-->
+<table style = "width: 160px;">
+	<tr style = "width: 160px;">
+		<td style = "text-align: center; width: 80px;">
+			<a href = "docs/Gary%20Ng%20-%20Resume%20-%20Letter.pdf" target = "_blank"><img src = "img/icons/pdf.png" alt = "Resume - Letter" title = "Download Resume (Letter)"/></a>
+			<p style = "margin-bottom: 0px;">Letter</p>
+		</td>
+		<td style = "text-align: center; width: 80px;">
+			<a href = "docs/Gary%20Ng%20-%20Resume%20-%20A4.pdf" target = "_blank"><img src = "img/icons/pdf.png" alt = "Resume - A4" title = "Download Resume (A4)"/></a>
+			<p style = "margin-bottom: 0px;">A4</p>
+		</td>
+	</tr>
+</table>
 
 <hr>
 

@@ -149,3 +149,13 @@ hr
 	font-family: 'Oswald', sans-serif;
 }
 
+.icons
+{
+	text-align: center;
+}
+
+.icon
+{
+	margin-left: 8px;
+	margin-right: 8px;
+}
