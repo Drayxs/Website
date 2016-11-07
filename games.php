@@ -122,10 +122,11 @@
 				<div class = "icons">
 					<a href = "http://globalgamejam.org/2014/games/relativity-0" target = "_blank"><img class = "icon" src = "img/icons/webpage.png" alt = "Global Game Jam Entry" title = "View Global Game Jam Entry"/></a>
 					<a href = "downloads/Relativity.zip" target = "_blank"><img class = "icon" src = "img/icons/download.png" alt = "Download" title = "Download"/></a>					
-				</div>		
-			</td>
+				</div>
 			<td class = "projectVideoSide">
-				<img src = "img/games/relativity.jpg" style = "width: 100%;" alt = "Relativity"  title = "Relativity"/>
+				<div class = "youtube-container">
+					<div class = "youtube-player" data-id = "jIeSbJjpAyQ"></div>
+				</div>
 			</td>
 		</tr>
 	</table>
