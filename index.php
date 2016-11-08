@@ -30,14 +30,13 @@
 		</td>
 		<td style = "width: 1%;"></td>
 		<td style = "width: 49.5%;">
-			<h2>Demo Reel</h2><h2>2014<h2>
+			<h2>Demo Reel</h2><h2>2014</h2>
 
 			<div class = "youtube-container">
 				<div class = "youtube-player" data-id = "_hpJbBHZq6U"></div>
 			</div>
 		</td>
 	</tr>
-<table>
+</table>
 
-<table>
 <?php include "footer.php"; ?>

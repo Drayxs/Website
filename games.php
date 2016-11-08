@@ -92,7 +92,9 @@
 				</ul>
 			</td>			
 			<td class = "projectVideoSide">
-				<img src = "img/games/shoottoten.png" style = "width: 100%;"  alt = "Shoot to Ten"  title = "Shoot to Ten" />
+				<div class = "youtube-container">
+					<div class = "youtube-player" data-id = "l5V_3w8yqzo"></div>
+				</div>
 			</td>
 		</tr>
 	</table>

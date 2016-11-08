@@ -17,7 +17,6 @@
 				<ul>
 					<li>Designed, assembled, and programmed the core Arduino components</li>
 					<li>3D printed and laser cut materials to build the console and unlocking components</li>
-					<li>Publicly demo'd the project at Dubai Design Week 2016</li>
 				</ul>
 				
 				<div class = "icons">
