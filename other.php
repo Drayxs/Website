@@ -1,6 +1,37 @@
 <?php include "header.php"; ?>
 
 <div>
+	<h2>ShareDesign</h2>
+	<table>
+		<tr>
+			<td class = "projectDescriptionSide">
+				<p style = "text-align: left;">
+					<b>Role:</b> Project Leader and Lead Programmer (<a href = "http://mid.kaist.ac.kr/" target = "_blank">MyDesignLab</a>)<br>
+					<b>Duration:</b> March 2016 - Present<br>
+					<b>Technology:</b> Unity (C#), Project Tango<br>
+					<br>
+					
+					ShareDesign is an augmented reality application for couples designing their living room. Using Project Tango technology, the application provides users with virtual workspaces and multiple view modes in a synchronized 3D environment.<br>
+				</p>
+					
+				<ul>
+					<li>Combined Project Tango spatial technology with the Unity networking system to create a realtime synchronized environment</li>
+					<li>Lead usability workshops and user studies to refine and analyze the application</li>
+				</ul>
+				
+			</td>
+			<td class = "projectVideoSide">
+				<div class = "youtube-container">
+					<img src = "img/research/sharedesign.jpg" width = "100%" alt = "ShareDesign"  title = "ShareDesign: An Augmented Reality Application for Couples Designing their Living Room" />
+				</div>
+			</td>
+		</tr>
+	</table>
+</div>
+
+<hr>
+
+<div>
 	<h2>Tip Tap Mat</h2>
 	<table>
 		<tr>
@@ -40,7 +71,7 @@
 		<tr>
 			<td class = "projectDescriptionSide">
 				<p style = "text-align: left;">
-					<b>Role:</b> Programmer<br>
+					<b>Role:</b> Programmer (<a href = "http://mid.kaist.ac.kr/" target = "_blank">MyDesignLab</a>)<br>
 					<b>Duration:</b> November 2015 - December 2015<br>
 					<b>Technology:</b> Unity (C#)<br>
 					<br>
@@ -107,7 +138,7 @@
 	 
 		Shewaga, R., Knox, A., Ng, G., Kapralos, B., & Dubrowski, A. (2013). Z-DOC: a serious game for Z-plasty procedure training. In <a href = "http://www.nextmed.com/" target = "_blank">MMVR</a> (pp. 404 - 406).<br><br>
 	 
-		For a full list of my publications please see my <a href = "https://scholar.google.co.kr/citations?user=MLtRcmUAAAAJ&hl=en&oi=sra" target = "_blank">Google Scholar page</a> or my <a href = "http://dl.acm.org/author_page.cfm?id=99659028769" target = "_blank">ACM Author profile</a>.
+		For a full list of my publications please see my <a href = "https://scholar.google.co.kr/citations?user=MLtRcmUAAAAJ&hl=en&oi=sra" target = "_blank">Google Scholar page</a>.
 	</p>
 </div>
 

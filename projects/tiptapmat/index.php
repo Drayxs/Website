@@ -66,6 +66,9 @@
 	
 	<ul>
 		<li><a href = "http://observer.com/2016/11/12-game-changing-innovations-we-found-at-dubai-design-week/" target = "_blank">The New York Observer</a></li>
+		<li><a href = "http://www.thenational.ae/arts-life/home-garden/forward-thinking#full" target = "_blank">The National (Abu Dhabi)</a></li>		
+		<li><a href = "http://award.designtoimprovelife.dk/nomination/1687" target = "_blank">INDEX: Design to Improve Life</a></li>
+		<!--<li><a href = "http://www.accessori-indossabili.it/2016/11/11/tip-tap-mat-lo-zerbino-apre-la-porta-solo/" target = "_blank">Accessori Indossabili</a></li>-->
 	</ul>	
 	
 	<p style = "text-align: left;"><b>Demos</b></p>

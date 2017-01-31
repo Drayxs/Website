@@ -4,7 +4,7 @@
 	<tr>
 		<td class = "projectDescriptionSide">
 			<p style = "text-align: left;">
-				Hello! My name is Gary Ng and I'm a game developer and interaction designer. Here, you'll be able to check out my <a href = "resume.php">resume</a>, some of the <a href = "games.php">games</a> that I've made, as well as some <a href = "other.php">other projects</a> that I've worked on.<br><br>
+				Hello! My name is Gary Ng and I'm a game programmer and interaction designer. Here, you'll be able to check out my <a href = "resume.php">resume</a>, some of the <a href = "games.php">games</a> that I've made, as well as some <a href = "other.php">other projects</a> that I've worked on.<br><br>
 				
 				I'm currently pursuing a Masters of Science in Industrial Design at <a href = "http://www.kaist.edu/html/en/index.html" target = "_blank">KAIST</a> in South Korea. Previously, I worked at <a href = "http://www.digitalleisure.com/" target = "_blank">Digital Leisure</a> as a programmer and obtained a Bachelors of Information Technology in the Game Development & Entrepreneurship program in Canada at the <a href = "http://www.uoit.ca/" target = "_blank">University of Ontario Institute of Technology</a>.<br><br>
 				
@@ -21,7 +21,7 @@
 
 <table>
 	<tr>
-		<td style = "width: 49.5%; display: inline;">
+		<!--<td style = "width: 49.5%; display: inline;">
 			<h2>Featured</h2> <a href = "projects/tiptapmat"><h2>Tip Tap Mat</h2></a>
 		
 			<div class = "youtube-container">
@@ -30,12 +30,15 @@
 		</td>
 		<td style = "width: 1%;"></td>
 		<td style = "width: 49.5%;">
-			<h2>Demo Reel</h2><h2>2016</h2>
-
+			<h2>Demo Reel</h2><h2>2016</h2>-->
+		<td style = "width: 10%;"></td>
+		<td style = "width: 80%;">
+			<h2>Demo Reel 2016</h2>
 			<div class = "youtube-container">
 				<div class = "youtube-player" data-id = "0IPpGHJwxck"></div>
 			</div>
 		</td>
+		<td style = "width: 10%;"></td>
 	</tr>
 </table>
 

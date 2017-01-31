@@ -27,9 +27,9 @@
 				<b>3DS:</b> 1246 - 9348 - 4131<br>
 			</p>	
 		</td>
-		<td class = "projectVideoSide">
-			<img src = "img/me/toycar.jpg" style = "width: 100%;" alt = "Gary Ng"  title = "I also sometimes do random things." />
-		</td>
+		<td class = "projectVideoSide">			
+			<img src = "img/me/lab.jpg" style = "width: 100%;" alt = "Gary Ng"  title = "Maker of cool things using cool things." />
+		</td>		
 	</tr>
 </table>
 
