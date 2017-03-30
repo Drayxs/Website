@@ -17,7 +17,7 @@
 				
 				<b>Twitter:</b> <a href = "https://twitter.com/Drayxs" target = "_blank">@Drayxs</a><br>
 				<b>YouTube:</b> <a href = "http://www.youtube.com/c/GaryNgKC " target = "_blank">GaryNgKC</a><br>
-				<b>LinkedIn:</b> <a href = "https://kr.linkedin.com/in/garykcng" target = "_blank">garykcng</a><br>
+				<b>LinkedIn:</b> <a href = "https://linkedin.com/in/garykcng" target = "_blank">garykcng</a><br>
 				<b>Blog:</b> <a href = "http://blog.garykcng.com/" target = "_blank">Gary's Rambles</a><br>
 					
 				<br>

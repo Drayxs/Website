@@ -33,7 +33,7 @@
 			<h2>Demo Reel</h2><h2>2016</h2>-->
 		<td style = "width: 10%;"></td>
 		<td style = "width: 80%;">
-			<h2>Demo Reel 2016</h2>
+			<h2>Demo Reel 2017</h2>
 			<div class = "youtube-container">
 				<div class = "youtube-player" data-id = "0IPpGHJwxck"></div>
 			</div>

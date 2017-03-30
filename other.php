@@ -1,13 +1,43 @@
 <?php include "header.php"; ?>
 
 <div>
+	<h2>Home Gamification</h2>
+	<table>
+		<tr>
+			<td class = "projectDescriptionSide">
+				<p style = "text-align: left;">
+					<b>Role:</b> Sole Developer<br>
+					<b>Duration:</b> February 2017 - Present<br>
+					<b>Technology:</b> Unity (C#), HoloLens<br>
+					<br>
+					
+					Home Gamification is an augmented reality application to create interactive games and narratives using the HoloLens. Using situated trigger-action programming, basic logic can be applied and visualized in 3D space to create interactive scenarios.<br>
+				</p>
+					
+				<ul>
+					<li>Designed and implemented a first-person, situated trigger-action programming interface</li>
+				</ul>
+				
+			</td>
+			<td class = "projectVideoSide">
+				<div class = "youtube-container">
+					<img src = "img/research/homegamification.jpg" width = "100%" alt = "Home Gamification"  title = "Home Gamification: Designing Interactive Experiences in Augmented Reality" />
+				</div>
+			</td>
+		</tr>
+	</table>
+</div>
+
+<hr>
+
+<div>
 	<h2>ShareDesign</h2>
 	<table>
 		<tr>
 			<td class = "projectDescriptionSide">
 				<p style = "text-align: left;">
 					<b>Role:</b> Project Leader and Lead Programmer (<a href = "http://mid.kaist.ac.kr/" target = "_blank">MyDesignLab</a>)<br>
-					<b>Duration:</b> March 2016 - Present<br>
+					<b>Duration:</b> March 2016 - February 2017<br>
 					<b>Technology:</b> Unity (C#), Project Tango<br>
 					<br>
 					
