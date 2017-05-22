@@ -60,7 +60,7 @@
 
 <body>		
 	<div class = "headerAndFooter">
-		<h1>GARY NG</h1>	
+		<a href = "/index.php" style = "color: inherit; text-decoration: inherit;"><h1>GARY NG</h1></a>
 		<?php include "nav.php"; ?>		
 		<hr>
 	</div>

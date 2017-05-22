@@ -11,17 +11,18 @@
 					<b>Technology:</b> Unity (C#), HoloLens<br>
 					<br>
 					
-					Home Gamification is an augmented reality application to create interactive games and narratives using the HoloLens. Using situated trigger-action programming, basic logic can be applied and visualized in 3D space to create interactive scenarios.<br>
+					Home Gamification is an <b>augmented reality toolkit</b> for the HoloLens that can be used to create interactive games and narratives. Using situated trigger-action programming, basic logic can be applied and visualized in 3D space to create interactive scenarios.<br>
 				</p>
 					
 				<ul>
 					<li>Designed and implemented a first-person, situated trigger-action programming interface</li>
+					<li>Conducted user studies to determine the usability of the application</li>
 				</ul>
 				
 			</td>
 			<td class = "projectVideoSide">
 				<div class = "youtube-container">
-					<img src = "img/research/homegamification.jpg" width = "100%" alt = "Home Gamification"  title = "Home Gamification: Designing Interactive Experiences in Augmented Reality" />
+					<img src = "img/research/homegamification.jpg" width = "100%" alt = "Home Gamification"  title = "Home Gamification: Designing Interactive Experiences in Augmented Reality (Video coming soon!)" />
 				</div>
 			</td>
 		</tr>
@@ -41,7 +42,7 @@
 					<b>Technology:</b> Unity (C#), Project Tango<br>
 					<br>
 					
-					ShareDesign is an augmented reality application for couples designing their living room. Using Project Tango technology, the application provides users with virtual workspaces and multiple view modes in a synchronized 3D environment.<br>
+					ShareDesign is an <b>augmented reality application</b> for couples designing their living room. Using Project Tango technology, the application provides users with virtual workspaces and multiple view modes in a synchronized 3D environment.<br>
 				</p>
 					
 				<ul>
@@ -52,7 +53,7 @@
 			</td>
 			<td class = "projectVideoSide">
 				<div class = "youtube-container">
-					<img src = "img/research/sharedesign.jpg" width = "100%" alt = "ShareDesign"  title = "ShareDesign: An Augmented Reality Application for Couples Designing their Living Room" />
+					<div class = "youtube-player" data-id = "yr_Sk8dSKYM"></div>					
 				</div>
 			</td>
 		</tr>
@@ -72,7 +73,7 @@
 					<b>Technology:</b> Arduino<br>
 					<br>
 					
-					Tip Tap Mat is a smart door mat which allows you to open locked doors with your feet. By using your feet to tap the correct combination on the mat, a wireless signal is sent to the unlocker which unlocks a digital lock. Tip Tap Mat was invited to demo at the <a href = "http://www.globalgradshow.com/" target = "_blank">Global Grad Show</a> of <a href = "http://www.dubaidesignweek.ae/" target = "_blank">Dubai Design Week 2016</a>.<br>
+					Tip Tap Mat is a <b>smart door mat</b> which allows you to open locked doors with your feet. By using your feet to tap the correct combination on the mat, a wireless signal is sent to the unlocker which unlocks a digital lock. Tip Tap Mat was invited to demo at the <a href = "http://www.globalgradshow.com/" target = "_blank">Global Grad Show</a> of <a href = "http://www.dubaidesignweek.ae/" target = "_blank">Dubai Design Week 2016</a>.<br>
 				</p>
 					
 				<ul>
@@ -106,7 +107,7 @@
 					<b>Technology:</b> Unity (C#)<br>
 					<br>
 					
-					This is a specially designed system that utilizes touch and gesture based inputs to control virtual UAVs in an inspection task. Published and presented at the <a href = "http://www.design-science.or.kr/eng_index.asp" target = "_blank">2016 KSDS Spring Conference</a>.<br>
+					This is a <b>multi-device interface</b> that utilizes touch and gesture based inputs to control virtual UAVs in an inspection task. This was published and presented at the <a href = "http://www.design-science.or.kr/eng_index.asp" target = "_blank">2016 KSDS Spring Conference</a>.<br>
 				</p>
 					
 				<ul>
@@ -140,7 +141,7 @@
 					<b>Technology:</b> Windows MFC (C++), Web (HTML, CSS, JavaScript, PHP), Databases (SQL)<br>
 					<br>
 					
-					MaXit Education is an educational tool that gives opportunites to instructors to evaluate and assess students using videos and comments.<br>
+					MaXit Education is an <b>educational tool</b> that gives opportunites to instructors to evaluate and assess students using videos and comments.<br>
 				</p>
 					
 				<ul>
@@ -163,10 +164,10 @@
 <h2>Select Academic Publications</h2><br>
 
 <div class = "publications">		
-	<p style = "text-align: left;">		
-		Kapralos, B., Shewaga, R., & Ng, G. (2014). Serious Games: customizing the audio-visual interface. In <a href = "http://link.springer.com/book/10.1007%2F978-3-319-07464-1" target = "_blank">Virtual, Augmented and Mixed Reality. Applications of Virtual and Augmented Reality</a> (pp. 190 - 199). Springer International Publishing.<br><br>
-	 
-		Shewaga, R., Knox, A., Ng, G., Kapralos, B., & Dubrowski, A. (2013). Z-DOC: a serious game for Z-plasty procedure training. In <a href = "http://www.nextmed.com/" target = "_blank">MMVR</a> (pp. 404 - 406).<br><br>
+	<p style = "text-align: left;">			
+		Kapralos, B., Shewaga, R., & <b>Ng, G.</b> (2014). Serious games: Customizing the audio-visual interface. Lecture Notes in Computer Science, 8526 LNCS(PART 2), 190–199. [<a href = "https://doi.org/10.1007/978-3-319-07464-1_18" target = "_blank">doi</a>]<br><br>
+		
+		Shewaga, R., Knox, A., <b>Ng, G.</b>, Kapralos, B., & Dubrowski, A. (2013). Z-DOC: A serious game for z-plasty procedure training. Studies in Health Technology and Informatics, 184, 404–406. [<a href = "https://doi.org/10.3233/978-1-61499-209-7-404" target = "_blank">doi</a>]<br><br>
 	 
 		For a full list of my publications please see my <a href = "https://scholar.google.co.kr/citations?user=MLtRcmUAAAAJ&hl=en&oi=sra" target = "_blank">Google Scholar page</a>.
 	</p>

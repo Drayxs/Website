@@ -4,9 +4,9 @@
 	<tr>
 		<td class = "projectDescriptionSide">
 			<p style = "text-align: left;">
-				Hello! My name is Gary Ng and I'm a game programmer and interaction designer. Here, you'll be able to check out my <a href = "resume.php">resume</a>, some of the <a href = "games.php">games</a> that I've made, as well as some <a href = "other.php">other projects</a> that I've worked on.<br><br>
+				Hello! My name is Gary Ng and I'm a <b>game programmer</b> and <b>interaction designer</b>. Here, you'll be able to check out my <a href = "resume.php">resume</a>, some of the <a href = "games.php">games</a> that I've made, as well as some <a href = "other.php">other projects</a> that I've worked on.<br><br>
 				
-				I'm currently pursuing a Masters of Science in Industrial Design at <a href = "http://www.kaist.edu/html/en/index.html" target = "_blank">KAIST</a> in South Korea. Previously, I worked at <a href = "http://www.digitalleisure.com/" target = "_blank">Digital Leisure</a> as a programmer and obtained a Bachelors of Information Technology in the Game Development & Entrepreneurship program in Canada at the <a href = "http://www.uoit.ca/" target = "_blank">University of Ontario Institute of Technology</a>.<br><br>
+				I'm currently pursuing a Masters of Science in Industrial Design at <a href = "http://www.kaist.edu/html/en/index.html" target = "_blank">KAIST</a> in South Korea. My interests include <b>game development</b>, <b>augmented reality</b>, and <b>virtual reality</b>. I strive to make fun and memorable experiences for everyone by leveraging good design principles and new technology.<br><br>
 				
 				If you have any questions or just want to talk, feel free to <a href = "contact.php">contact me</a>!<br><br>
 			</p>
@@ -22,15 +22,14 @@
 <table>
 	<tr>
 		<!--<td style = "width: 49.5%; display: inline;">
-			<h2>Featured</h2> <a href = "projects/tiptapmat"><h2>Tip Tap Mat</h2></a>
-		
-			<div class = "youtube-container">
-				<div class = "youtube-player" data-id = "sS6sqPPw__o"></div>
-			</div>
+			<h2>Featured</h2> <a href = "/other.php"><h2>Home Gamification</h2></a>
+			
+			<img src = "img/research/homegamification.jpg" width = "100%" alt = "Home Gamification"  title = "Home Gamification: Designing Interactive Experiences in Augmented Reality (Video coming soon!)" />
+			
 		</td>
 		<td style = "width: 1%;"></td>
 		<td style = "width: 49.5%;">
-			<h2>Demo Reel</h2><h2>2016</h2>-->
+			<h2>Demo Reel</h2> <h2>2017</h2>-->
 		<td style = "width: 10%;"></td>
 		<td style = "width: 80%;">
 			<h2>Demo Reel 2017</h2>

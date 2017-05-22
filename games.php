@@ -11,7 +11,7 @@
 					<b>Technology:</b> Unity (C#), Maya (Python), Web (HTML, CSS, JavaScript, PHP), Databases (SQL)<br>
 					<br>
 					
-					The Four Kings Casino and Slots is an online social multiplayer game released on Steam and for the PS4. Create and customize your own avatar and play some of your favourite casino games such as poker, slots and blackjack.<br>
+					The Four Kings Casino and Slots is an <b>online social multiplayer game</b> released on Steam and for the PS4. Create and customize your own avatar and play some of your favourite casino games such as poker, slots and blackjack.<br>
 				</p>
 					
 				<ul>
@@ -48,7 +48,7 @@
 					<b>Technology:</b> Android (Processing)<br>
 					<br>
 					
-					ColourBomb is a pseudo-augmented reality game where you search the real world to match up the bombs with physical objects of that colour.<br>
+					ColourBomb is a <b>mobile augmented reality search game</b> where you search the real world to match up the bombs with physical objects of that colour.<br>
 				</p>
 					
 				<ul>
@@ -82,7 +82,7 @@
 					<b>Technology:</b> Unity (C#)<br>
 					<br>
 					
-					Shoot to Ten is a puzzle game where you shoot a ball to hit the numbers one to ten in order. A variety of tiles influence the level's composition and difficulty.<br>
+					Shoot to Ten is a <b>mobile puzzle game</b> where you shoot a ball to hit the numbers one to ten in order. A variety of tiles influence the level's composition and difficulty.<br>
 				</p>
 				
 				<ul>
@@ -113,7 +113,7 @@
 					<b>Technology:</b> Unity (C#)<br>
 					<br>
 					
-					Relativity is a puzzle platforming game created for <a href = "http://globalgamejam.org/" target = "_blank">Global Game Jam 2014</a>. Play as a character with the ability to shift in and out of the shadow world and try to collect the gems and navigate through the levels.<br>
+					Relativity is a <b>puzzle platforming game</b> created for <a href = "http://globalgamejam.org/" target = "_blank">Global Game Jam 2014</a>. Play as a character with the ability to shift in and out of the shadow world and try to collect the gems and navigate through the levels.<br>
 				</p>
 				
 				<ul>
@@ -147,7 +147,7 @@
 					<b>Technology:</b> OGRE (C++)<br>
 					<br>
 					
-					Aftermath is a third person action adventure game where you do battle with the giant Dinobot in an epic boss encounter. Aftermath was demo'd at the 2013 UOIT GameCon and won the <i>Best Aesthetics Award</i>.<br>
+					Aftermath is a <b>third person action adventure game</b> where you do battle with the giant Dinobot in an epic boss encounter. Aftermath was demo'd at the 2013 UOIT GameCon and won the <i>Best Aesthetics Award</i>.<br>
 				</p>
 				
 				<ul>
@@ -177,7 +177,7 @@
 					<b>Technology:</b> OpenGL (C++, Cg)<br>
 					<br>
 					
-					SHFTed is a third person action adventure game where you explore a magical world and do battle with enemy soldiers. SHFTed was demo'd at <a href = "https://levelupshowcase.com/" target = "_blank">Level Up 2012</a> and at the 2012 UOIT GameCon.<br>
+					SHFTed is a <b>third person action adventure game</b> where you explore a magical world and do battle with enemy soldiers. SHFTed was demo'd at <a href = "https://levelupshowcase.com/" target = "_blank">Level Up 2012</a> and at the 2012 UOIT GameCon.<br>
 				</p>
 				
 				<ul>

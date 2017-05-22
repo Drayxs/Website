@@ -3,8 +3,7 @@ $(document).ready(function()
 	if ($(window).width() < 1000)
 	{	
 		$('.projectDescriptionSide').each(function(i, pObj)
-		{
-			
+		{			
 			$(this).attr('class', 'projectDescriptionTop');
 		});
 		
