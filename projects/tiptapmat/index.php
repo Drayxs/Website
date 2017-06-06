@@ -8,11 +8,11 @@
   "@type": "product",
   "name": "Tip Tap Mat",
   "image": "http://www.garykcng.com/projects/tiptapmat/img/tiptapmat_mat_full.jpg",
-  "description": "Unlock locked doors with your feet"
+  "description": "Unlock Locked Doors with your Feet"
 }
  </script>
  
-<title>Tip Tap Mat | Unlock locked doors with your feet</title>
+<title>Tip Tap Mat | Unlock Locked Doors with your Feet</title>
 
 <meta charset = "UTF-8">
 <meta name = "description" content = "Project page for Tip Tap Mat">
@@ -22,8 +22,8 @@
 <?php include "../../includes.php"; ?>	
 
 <div>
-	<img src = "img/tiptapmat_logo_cropped.png" style = "width: 100%;" title = "Tip Tap Mat: Unlock locked doors with your feet" alt = "Tip Tap Mat" />
-	<p style = "font-size: 10px">Designed by: <a href = "http://www.garykcng.com/">Gary Ng</a>, Punyotai Thamjamrassri, Giulia Scurati</p>
+	<img src = "img/tiptapmat_logo_cropped.png" style = "width: 100%;" title = "Tip Tap Mat: Unlock Locked Doors with your Feet" alt = "Tip Tap Mat" />
+	<p style = "font-size: 10px">Designed by: <a href = "http://www.garykcng.com/">Gary Ng</a>, Punyotai Thamjamrassri, and Giulia Scurati</p>
 
 	<p style = "text-align: left;">					
 		Normally, you unlock doors with a key or enter a key code on a key pad. That works fine most of the time, but what if you just went shopping and were carrying a lot of bags? Everyone, no matter who you are or where you are from, knows that feeling of dread when your hands aren't free and you see a locked door.<br><br>
@@ -36,9 +36,9 @@
 	</div>
 	
 	<p style = "text-align: left;">					
-		Since most things nowadays are designed for your hands, they are often very busy. Your feet on the other hand are generally fairly free. We wanted to explore a <b>different type of interaction</b> and designed an unlocking interface that moves the interaction from your hands to your feet.<br><br>
+		Since most things nowadays are designed for your hands, they are often very busy. Your feet, on the other hand, are generally fairly free. We wanted to explore a <b>different type of interaction</b> and designed an unlocking interface that moves the interaction from your hands to your feet.<br><br>
 
-		Pressure sensors under the mat detect your movements then transmit the data to the door's lock. When the correct combination is entered, the door is unlocked. <i>Tip Tap Mat</i> can be operated by everyone and is ideal in situations where the can unlock the door without having to put down whatever they're holding, making it a <b>hassle free experience</b>.<br><br>
+		Pressure sensors under the mat detect your movements then transmit the data to the door's lock. When the correct combination is entered, the door is unlocked. <i>Tip Tap Mat</i> can be operated by everyone and is ideal in situations where a door can be unlocked without having to put down whatever they're holding, making it a <b>hassle free experience</b>.<br><br>
 		
 		<i>Tip Tap Mat</i> is easily installed. The mat console is attached to the corner of any rectangular mat and the sensors are placed underneath. Then, one of two unlocking systems are used. The first uses an unlocker module that is mounted onto an existing door lock. The second uses a custom lock which has the wireless controller built into it.
 	</p>
