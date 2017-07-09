@@ -7,11 +7,11 @@
 			<td class = "projectDescriptionSide">
 				<p style = "text-align: left;">
 					<b>Role:</b> Sole Developer (<a href = "http://mid.kaist.ac.kr/" target = "_blank">MyDesignLab</a>)<br>
-					<b>Duration:</b> February 2017 - Present<br>
+					<b>Duration:</b> February 2017 - June 2017<br>
 					<b>Technology:</b> Unity (C#), HoloLens<br>
 					<br>
 					
-					The Spatial Gamification Toolkit is an <b>augmented reality level editor</b> that can be used to create interactive games and narratives for the HoloLens. Using a 3D situated trigger-action programming interface, basic logic can be applied to game objects to create interactive scenarios. The Spatial Gamification Toolkit will be presented at <a href = "http://www.uvrlab.org/isuvr/2017/main.html" target = "_blank">ISUVR 2017</a>.<br>
+					The Spatial Gamification Toolkit is an <b>augmented reality level editor</b> that can be used to create interactive games and narratives for the HoloLens. Using a 3D situated trigger-action programming interface, basic logic can be applied to game objects to create interactive scenarios. The Spatial Gamification Toolkit was presented at <a href = "http://www.uvrlab.org/isuvr/2017/main.html" target = "_blank">ISUVR 2017</a>.<br>
 				</p>
 					
 				<ul>
@@ -22,7 +22,7 @@
 			</td>
 			<td class = "projectVideoSide">
 				<div class = "youtube-container">
-					<img src = "img/research/homegamification.jpg" width = "100%" alt = "Home Gamification"  title = "Spatial Gamification Toolkit: Designing Augmented Reality Games in and for the Living Room (Video coming soon!)" />
+					<div class = "youtube-player" data-id = "XZCeDlu1BGo"></div>					
 				</div>
 			</td>
 		</tr>
@@ -42,7 +42,7 @@
 					<b>Technology:</b> Unity (C#), Project Tango<br>
 					<br>
 					
-					ShareDesign is an <b>augmented reality application</b> for couples designing their living room. Using Project Tango technology, the application provides users with virtual workspaces and multiple view modes in a synchronized 3D environment. ShareDesign will be presented at <a href = "http://www.uvrlab.org/isuvr/2017/main.html" target = "_blank">ISUVR 2017</a>.<br>
+					ShareDesign is an <b>augmented reality application</b> for couples designing their living room. Using Project Tango technology, the application provides users with virtual workspaces and multiple view modes in a synchronized 3D environment. ShareDesign was presented at <a href = "http://www.uvrlab.org/isuvr/2017/main.html" target = "_blank">ISUVR 2017</a>.<br>
 				</p>
 					
 				<ul>

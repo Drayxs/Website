@@ -21,7 +21,7 @@
 		<td style = "width: 50%; vertical-align: top;">
 			<h2>Work Experience</h2><br>
 			<p>
-				<b>Graduate Research Assistant</b> (2015 - Present)<br>
+				<b>Graduate Research Assistant</b> (2015 - 2017)<br>
 				<a href = "http://mid.kaist.ac.kr/" target = "_blank">myDesignLab</a>, KAIST (Daejeon, South Korea)<br><br>
 				
 				<b>Tools and Systems Programmer</b> (2014)<br>
@@ -58,7 +58,7 @@
 		<td style = "width: 50%; vertical-align: top;">
 			<h2>Education</h2><br>
 			<p>
-				<b>Masters of Science</b> (2015 - Present)<br>
+				<b>Masters of Science</b> (2015 - 2017)<br>
 				Industrial Design<br>
 				<a href = "http://www.kaist.edu/html/en/index.html" target = "_blank">KAIST</a> (Daejeon, South Korea)<br><br>
 				
