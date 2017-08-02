@@ -62,7 +62,8 @@
 				Industrial Design<br>
 				<a href = "http://www.kaist.edu/html/en/index.html" target = "_blank">KAIST</a> (Daejeon, South Korea)<br><br>
 				
-				<b>Korean Language</b> (2014 - 2015)<br>
+				<b>Certificate of Completion</b> (2014 - 2015)<br>
+				Korean Language<br>
 				<a href = "http://www.kmu.ac.kr/english/index.jsp" target = "_blank">Keimyung University</a> (Daegu, South Korea)<br><br>
 				
 				<b>Bachelors of Information Technology</b> (2010 - 2014)<br>

@@ -15,8 +15,8 @@
 				</p>
 					
 				<ul>
-					<li>Designed and implemented a first-person, situated trigger-action programming interface</li>
-					<li>Conducted user studies to determine the usability of the application</li>
+					<li>Designed and implemented a first-person, spatial trigger-action programming interface</li>
+					<li>Conducted user studies to evaluate and determine the usability of the application</li>
 				</ul>
 				
 			</td>
