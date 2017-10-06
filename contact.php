@@ -11,7 +11,7 @@
 				<b>Email:</b> <a href = "mailto:ng.gary.kc@gmail.com" target = "_top">ng.gary.kc@gmail.com</a><br>
 				<b>Phone:</b> +82 10 2750 1337<br>
 				<b>Skype:</b> gary.kc.ng<br>									
-				<b>Location:</b> Daejeon, South Korea<br>
+				<b>Location:</b> Toronto, Ontario, Canada<br>
 				
 				<br>
 				
