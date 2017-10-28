@@ -6,7 +6,7 @@
 			<p style = "text-align: left;">
 				Hello! My name is Gary Ng and I'm a <b>game programmer</b> and <b>UX designer</b>. Here, you'll be able to check out my <a href = "resume.php">resume</a>, some of the <a href = "games.php">games</a> that I've made, as well as some <a href = "other.php">other projects</a> that I've worked on.<br><br>
 				
-				I recently obtained a Master's of Science in Industrial Design at <a href = "http://www.kaist.edu/html/en/index.html" target = "_blank">KAIST</a> in South Korea. My interests include <b>game development</b>, <b>augmented reality</b>, and <b>virtual reality</b>. I strive to make fun and memorable experiences for everyone by leveraging good design principles and new technology.<br><br>
+				I'm currently working as an Interactive Media Developer at <a href = "http://invivo.com/" target = "_blank">INVIVO Communications</a> and my education background is in Game Development and Industrial Design. My interests include <b>game design</b>, <b>augmented reality</b>, and <b>virtual reality</b>. I strive to make fun and memorable experiences for everyone by leveraging good design principles and new technology.<br><br>
 				
 				If you have any questions or just want to talk, feel free to <a href = "contact.php">contact me</a>!<br><br>
 			</p>

@@ -5,12 +5,12 @@
 	<tr style = "width: 160px;">
 		<td style = "text-align: center; width: 80px;">
 			<a href = "docs/Gary%20Ng%20-%20Resume%20-%20Letter.pdf" target = "_blank"><img src = "img/icons/pdf.png" alt = "Resume - Letter" title = "Download Resume (Letter)"/></a>
-			<p style = "margin-bottom: 0px;">Letter</p>
+			<p style = "margin-bottom: 0px;">Download PDF</p>
 		</td>
-		<td style = "text-align: center; width: 80px;">
+		<!--<td style = "text-align: center; width: 80px;">
 			<a href = "docs/Gary%20Ng%20-%20Resume%20-%20A4.pdf" target = "_blank"><img src = "img/icons/pdf.png" alt = "Resume - A4" title = "Download Resume (A4)"/></a>
 			<p style = "margin-bottom: 0px;">A4</p>
-		</td>
+		</td>-->
 	</tr>
 </table>
 
@@ -21,6 +21,9 @@
 		<td style = "width: 50%; vertical-align: top;">
 			<h2>Work Experience</h2><br>
 			<p>
+				<b>Interactive Media Developer</b> (2017 - Present)<br>
+				<a href = "http://invivo.com/" target = "_blank">INVIVO Communications</a> (Toronto, Ontario)<br><br>
+			
 				<b>Graduate Research Assistant</b> (2015 - 2017)<br>
 				<a href = "http://mid.kaist.ac.kr/" target = "_blank">myDesignLab</a>, KAIST (Daejeon, South Korea)<br><br>
 				
@@ -28,9 +31,6 @@
 				<a href = "http://www.digitalleisure.com/" target = "_blank">Digital Leisure</a> (Aurora, Ontario)<br><br>
 				
 				<b>Undergraduate Research Assistant</b> (2012 - 2014)<br>
-				<a href = "http://www.uoit.ca/" target = "_blank">University of Ontario Institute of Technology</a> (Oshawa, Ontario)<br><br>
-				
-				<b>Teaching Assistant</b> (2013 - 2014)<br>
 				<a href = "http://www.uoit.ca/" target = "_blank">University of Ontario Institute of Technology</a> (Oshawa, Ontario)<br><br>
 				
 				<b>International Research Assistant</b> (Summer 2013)<br>
@@ -48,11 +48,8 @@
 				<b>College Student Reporter</b> (2015 - 2016)<br>
 				<a href = "http://www.pyeongchang2018.com/horizon/eng/index.asp" target = "_blank">PyeongChang 2018 Winter Olympics Committee</a> (Seoul, South Korea)<br><br>
 				
-				<b>President</b> (2013 - 2014)<br>
+				<b>President</b> (2013 - 2014) | <b>Executive</b> (2012 - 2013)<br>
 				<a href = "https://www.facebook.com/GDS.UOIT/?fref=ts" target = "_blank">UOIT/DC Game Development Society</a> (Oshawa, Ontario)<br><br>
-				
-				<b>Executive</b> (2012 - 2013)<br>
-				<a href = "https://www.facebook.com/GDS.UOIT/?fref=ts" target = "_blank">UOIT/DC Game Development Society</a> (Oshawa, Ontario)
 			</p>
 		</td>
 		<td style = "width: 50%; vertical-align: top;">
