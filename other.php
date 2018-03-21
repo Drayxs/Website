@@ -11,7 +11,7 @@
 					<b>Technology:</b> Unity (C#), HoloLens<br>
 					<br>
 					
-					The Spatial Gamification Toolkit is an <b>augmented reality level editor</b> that can be used to create interactive games and narratives for the HoloLens. Using a 3D situated trigger-action programming interface, basic logic can be applied to game objects to create interactive scenarios. The Spatial Gamification Toolkit was presented at <a href = "http://www.uvrlab.org/isuvr/2017/main.html" target = "_blank">ISUVR 2017</a> and will be published in <a href = "https://tei.acm.org/2018/" target = "_blank">TEI 2018</a>.<br>
+					The Spatial Gamification Toolkit is an <b>augmented reality level editor</b> that can be used to create interactive games and narratives for the HoloLens. Using a 3D situated trigger-action programming interface, basic logic can be applied to game objects to create interactive scenarios. The Spatial Gamification Toolkit was presented at <a href = "http://www.uvrlab.org/isuvr/2017/main.html" target = "_blank">ISUVR 2017</a> and published in <a href = "https://tei.acm.org/2018/" target = "_blank">TEI 2018</a>.<br>
 				</p>
 					
 				<ul>
@@ -20,7 +20,8 @@
 				</ul>
 				
 				<div class = "icons">
-					<a href = "http://mid.kaist.ac.kr/projects/ar_game_editor/" target = "_blank"><img class = "icon" src = "img/icons/webpage.png" alt = "Website" title = "Project Page"/></a>
+					<a href = "http://mid.kaist.ac.kr/projects/ar_level_editor/" target = "_blank"><img class = "icon" src = "img/icons/webpage.png" alt = "Website" title = "Project Page"/></a>
+					<a href = "docs/Situated%20Game%20Level%20Editing%20in%20Augmented%20Reality.pdf" target = "_blank"><img class = "icon" src = "img/icons/pdf.png" alt = "Paper" title = "View Paper"/></a>
 				</div>
 				
 			</td>
@@ -46,7 +47,7 @@
 					<b>Technology:</b> Unity (C#), Project Tango<br>
 					<br>
 					
-					ShareDesign is an <b>augmented reality application</b> for couples designing their living room. Using Project Tango technology, the application provides users with virtual workspaces and multiple view modes in a synchronized 3D environment. ShareDesign was presented at <a href = "http://www.uvrlab.org/isuvr/2017/main.html" target = "_blank">ISUVR 2017</a> and published at <a href = "http://www.sigah.org/AH2018/" target = "_blank">AH 2018</a>.<br>
+					ShareDesign is an <b>augmented reality application</b> for couples designing their living room. Using Project Tango technology, the application provides users with virtual workspaces and multiple view modes in a synchronized 3D environment. ShareDesign was presented at <a href = "http://www.uvrlab.org/isuvr/2017/main.html" target = "_blank">ISUVR 2017</a> and published in <a href = "http://www.sigah.org/AH2018/" target = "_blank">AH 2018</a>.<br>
 				</p>
 					
 				<ul>
@@ -55,6 +56,7 @@
 				</ul>
 				
 				<div class = "icons">
+					<a href = "http://mid.kaist.ac.kr/projects/couples_designing_together/" target = "_blank"><img class = "icon" src = "img/icons/webpage.png" alt = "Website" title = "Project Page"/></a>
 					<a href = "docs/Couples%20Designing%20their%20Living%20Room%20Together.pdf" target = "_blank"><img class = "icon" src = "img/icons/pdf.png" alt = "Paper" title = "View Paper"/></a>
 				</div>
 				
@@ -173,7 +175,9 @@
 
 <div class = "publications">		
 	<p style = "text-align: left;">		
-		Shin, J. G., <b>Ng, G.</b>, & Saakes, D. (2018). Couples Designing their Living Room Together. In Proceedings of the 9th Augmented Human International Conference on - AH ’18 (pp. 1–9). New York, New York, USA: ACM Press. [<a href = "https://doi.org/10.1145/3174910.3174930 " target = "_blank">doi</a>, <a href = "docs/Couples%20Designing%20their%20Living%20Room%20Together.pdf" target = "_blank">pdf</a>]<br><br>
+		<b>Ng, G.</b>, Shin, J. G., Plopski, A., Sandor, C., & Saakes, D. (2018). Situated Game Level Editing in Augmented Reality. Proceedings of the Twelfth International Conference on Tangible, Embedded, and Embodied Interaction - TEI ’18, 409–418. [<a href = "https://doi.org/10.1145/3173225.3173230" target = "_blank">doi</a>, <a href = "docs/Situated%20Game%20Level%20Editing%20in%20Augmented%20Reality.pdf" target = "_blank">pdf</a>]<br><br>
+	
+		Shin, J. G., <b>Ng, G.</b>, & Saakes, D. (2018). Couples Designing their Living Room Together. In Proceedings of the 9th Augmented Human International Conference on - AH ’18 (pp. 1–9). New York, New York, USA: ACM Press. [<a href = "https://doi.org/10.1145/3174910.3174930" target = "_blank">doi</a>, <a href = "docs/Couples%20Designing%20their%20Living%20Room%20Together.pdf" target = "_blank">pdf</a>]<br><br>
 		
 		Shewaga, R., Knox, A., <b>Ng, G.</b>, Kapralos, B., & Dubrowski, A. (2013). Z-DOC: A serious game for z-plasty procedure training. Studies in Health Technology and Informatics, 184, 404–406. [<a href = "https://doi.org/10.3233/978-1-61499-209-7-404" target = "_blank">doi</a>]<br><br>
 	 
