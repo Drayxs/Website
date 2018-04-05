@@ -10,7 +10,7 @@ $(document).ready(function()
 });
  
 function labnolThumb(id) {
-    return '<img class="youtube-thumb" src="//i.ytimg.com/vi/' + id + '/hqdefault.jpg"><div class="play-button"></div>';
+    return '<img class="youtube-thumb" alt="" src="//i.ytimg.com/vi/' + id + '/hqdefault.jpg"><div class="play-button"></div>';
 }
  
 function labnolIframe() {
