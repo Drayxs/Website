@@ -1,6 +1,34 @@
 <?php include "header.php"; ?>
 
 <div>
+	<h2>CAR T VR Experience</h2>
+	<table>
+		<tr>
+			<td class = "projectDescriptionSide">
+				<p style = "text-align: left;">
+					<b>Role:</b> Interactive Media Developer (<a href = "http://invivo.com/" target = "_blank">INVIVO Communications</a>)<br>
+					<b>Duration:</b> April 2018 - May 2018<br>
+					<b>Technology:</b> Unity (C#), Oculus Rift<br>
+					<br>
+					
+					The CAR T VR Experience is a <b>virtual reality serious game</b> where you assume the role of a CAR T cell and bind to antigens on cancer cells. This was demo'd at <a href = "https://am.asco.org/" target = "_blank">ASCO 2018</a> and had over 200 unique players over the conference period.<br>
+				</p>
+				
+				<ul>
+					<li>Utilized the Oculus Touch controllers to design and develop an interactive virtual reality experience that encourages physical movement</li>
+					<li>Developed a scientifically accurate experience based on Celgene's CAR T cell therapy</li>					
+				</ul>
+			</td>
+			<td class = "projectVideoSide">
+				<img src = "img/games/CAR T VR.jpg" style = "width: 100%;" alt = "CAR T VR"  title = "The CAR T VR Experience at ASCO 2018." />
+			</td>
+		</tr>
+	</table>
+</div>
+
+<hr>
+
+<div>
 	<h2>The Four Kings Casino and Slots</h2><br>
 	<table>
 		<tr>
@@ -128,36 +156,6 @@
 			<td class = "projectVideoSide">
 				<div class = "youtube-container">
 					<div class = "youtube-player" data-id = "jIeSbJjpAyQ"></div>
-				</div>
-			</td>
-		</tr>
-	</table>
-</div>
-
-<hr>
-
-<div>
-	<h2>Aftermath</h2>
-	<table>
-		<tr>
-			<td class = "projectDescriptionSide">
-				<p style = "text-align: left;">
-					<b>Role:</b> Team Leader and Programmer<br>
-					<b>Duration:</b> September 2012 - April 2013<br>
-					<b>Technology:</b> OGRE (C++)<br>
-					<br>
-					
-					Aftermath is a <b>third person action adventure game</b> where you do battle with the giant Dinobot in an epic boss encounter. Aftermath was demo'd at the 2013 UOIT GameCon and won the <i>Best Aesthetics Award</i>.<br>
-				</p>
-				
-				<ul>
-					<li>Developed the gameplay and scripting systems alongside other programmers</li>
-					<li>Spearheaded the first collaborative project with the University of Ontario Institute of Technology and Durham College's game development programs</li>
-				</ul>
-			</td>
-			<td class = "projectVideoSide">
-				<div class = "youtube-container">
-					<div class = "youtube-player" data-id = "e4O1kFNK02c"></div>
 				</div>
 			</td>
 		</tr>
