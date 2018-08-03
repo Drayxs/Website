@@ -1,6 +1,38 @@
 <?php include "header.php"; ?>
 
 <div>
+	<h2>The Multi-Layered Bead Technology VR Experience</h2>
+	<table>
+		<tr>
+			<td class = "projectDescriptionSide">
+				<p style = "text-align: left;">
+					<b>Role:</b> Interactive Media Developer (<a href = "http://invivo.com/" target = "_blank">INVIVO Communications</a>)<br>
+					<b>Duration:</b> December 2017 - February 2018<br>
+					<b>Technology:</b> Unity (C#), Google Cardboard<br>
+					<br>
+					
+					This is a <b>mobile virtual reality application</b> designed to educate healthcare providers on the overall drug MLR bead technology. It is an immersive on-rails experience which introduces the user to the different layers of the bead technology.<br>
+				</p>
+					
+				<ul>
+					<li>Optimized the application to sustain 60 FPS while rendering approximately 4000 particles swirling around the user to create a visually stunning and smooth experience</li>
+					<li>Developed the application in English and then localized it to French to reach a broader Canadian market</li>
+				</ul>
+				
+				<div class = "icons">
+					<a href = "https://invivo.com/portfolio/the-multi-layered-bead-technology-vr-experience/" target = "_blank"><img class = "icon" src = "img/icons/webpage.png" alt = "Case Study" title = "View Case Study"/></a>
+				</div>
+			</td>
+			<td class = "projectVideoSide">
+				<img src = "img/other/multilayered_bead.jpg" style = "width: 100%;" alt = "Multi-Layered Bead Technology VR Experience"  title = "The Multi-Layered Bead Technology VR Experience." />
+			</td>
+		</tr>
+	</table>
+</div>
+
+<hr>
+
+<div>
 	<h2>Spatial Gamification Toolkit</h2>
 	<table>
 		<tr>
@@ -98,40 +130,6 @@
 			<td class = "projectVideoSide">
 				<div class = "youtube-container">
 					<div class = "youtube-player" data-id = "sS6sqPPw__o"></div>					
-				</div>
-			</td>
-		</tr>
-	</table>
-</div>
-
-<hr>
-
-<div>
-	<h2>Gesture Based Interface for Remote Inspection Tasks with UAVs</h2>
-	<table>
-		<tr>
-			<td class = "projectDescriptionSide">
-				<p style = "text-align: left;">
-					<b>Role:</b> Programmer (<a href = "http://mid.kaist.ac.kr/" target = "_blank">MyDesignLab</a>)<br>
-					<b>Duration:</b> November 2015 - December 2015<br>
-					<b>Technology:</b> Unity (C#)<br>
-					<br>
-					
-					This is a <b>multi-device interface</b> that utilizes touch and gesture based inputs to control virtual UAVs in an inspection task. This was published and presented at the <a href = "http://www.design-science.or.kr/eng_index.asp" target = "_blank">2016 KSDS Spring Conference</a>.<br>
-				</p>
-					
-				<ul>
-					<li>Integrated an Oculus Rift, Intel RealSense F200 Camera, and a Nexio Touch Frame into a single system</li>
-					<li>Combined familiar 2D surface gestures for map navigation with in-air gestures for 3D tasks in virtual reality</li>
-				</ul>
-				
-				<div class = "icons">
-					<a href = "docs/A%20Gesture%20Based%20Interface%20for%20Remote%20Inspection%20Tasks%20with%20Unmanned%20Aerial%20Vehicles.pdf" target = "_blank"><img class = "icon" src = "img/icons/pdf.png" alt = "Paper" title = "View Paper"/></a>
-				</div>
-			</td>
-			<td class = "projectVideoSide">
-				<div class = "youtube-container">
-					<div class = "youtube-player" data-id = "kNreVwS8ctc"></div>
 				</div>
 			</td>
 		</tr>
