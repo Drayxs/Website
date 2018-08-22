@@ -12,7 +12,7 @@
 			</p>
 		</td>
 		<td class = "projectVideoSide">			
-			<img src = "img/me/desert.jpg" style = "width: 100%;" alt = "Gary Ng"  title = "I stay cool, even in the desert." />
+			<img src = "img/me/invivo.png" style = "width: 100%;" alt = "Gary Ng"  title = "Slick and stylish." />
 		</td>
 	</tr>		
 </table>
